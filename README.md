@@ -1,5 +1,5 @@
-# Binabox - homework project
+# Binabox - BAFC5-83
 
-Student: 
+Student: Cosmin Daniel Mutis
 
-Mentor: 
+Mentor: Alena Skobeleva

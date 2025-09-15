@@ -1,5 +1,4 @@
-# Binabox - homework project
+# binabox-cosmin-daniel88 
 
-Student: 
-
-Mentor: 
+**Student**: Cosmin Daniel Mutis
+**Mentor**: Alena Skobeleva
